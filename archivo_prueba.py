@@ -1,0 +1,1 @@
+var_nom = input("Ingrese un nombre: ")
